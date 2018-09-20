@@ -1,0 +1,16 @@
+{
+  "name": "nodejstemplate",
+  "version": "0.1.0",
+  "description": "Nodejs Template",
+  "main": "app.js",
+  "author": "kaemiinwork@gmail.com",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@types/dotenv": "^4.0.3",
+    "dotenv": "^5.0.1"
+  },
+  "devDependencies": {
+    "ts-node": "^6.0.3"
+  }
+}
